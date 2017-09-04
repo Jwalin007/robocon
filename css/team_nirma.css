@@ -1,0 +1,301 @@
+/* ======== STYLING ========= */
+
+body {
+    background-image: url("../images/background1.jpg");
+}
+
+#back {
+    margin-left: 720px;
+    text-decoration: none;
+    color: white;
+    padding: 1%;
+    background: orangered;
+    height: 20px;
+    width: 50px;
+}
+
+#card0 {
+    display: inline-block;
+    padding: 1%;
+    margin-left: 400px;
+    margin-top: 50px;
+    height: 100px;
+    width: 47%;
+    border-radius: 70px;
+    background-color: white;
+}
+
+#card0_1 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-image: url("../images/dk.jpg");
+}
+
+#card0_2 {
+    position: relative;
+    display: inline-block;
+    height: 100px;
+    width: 85%;
+    border-radius: 90px;
+    background-color: lightgrey;
+}
+
+#card0_2 p {
+    margin-left: 100px;
+    position: absolute;
+}
+
+#card1 {
+    display: inline-block;
+    padding: 1%;
+    margin-top: 50px;
+    height: 100px;
+    width: 47%;
+    border-radius: 70px;
+    background-color: white;
+}
+
+#card1_1 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-image: url("../images/mmc.jpg");
+}
+
+#card1_2 {
+    position: relative;
+    display: inline-block;
+    height: 100px;
+    width: 85%;
+    border-radius: 90px;
+    background-color: lightgrey;
+}
+
+#card1_2 p {
+    margin-left: 100px;
+    position: absolute;
+}
+
+#card2 {
+    display: inline-block;
+    padding: 1%;
+    margin-left: 20px;
+    margin-top: 50px;
+    height: 100px;
+    width: 47%;
+    border-radius: 70px;
+    background-color: white;
+}
+
+#card2_1 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-image: url("../images/am.jpg");
+}
+
+#card2_2 {
+    display: inline-block;
+    height: 100px;
+    width: 85%;
+    border-radius: 50px;
+    background-color: lightgrey;
+}
+
+#card2_2 p {
+    margin-left: 100px;
+    position: absolute;
+}
+
+#card3 {
+    display: inline-block;
+    padding: 1%;
+    margin-top: 50px;
+    height: 100px;
+    width: 47%;
+    border-radius: 70px;
+    background-color: white;
+}
+
+#card3_1 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-image: url("../images/mp.jpg");
+}
+
+#card3_2 {
+    display: inline-block;
+    height: 100px;
+    width: 85%;
+    border-radius: 50px;
+    background-color: lightgrey;
+}
+
+#card3_2 p {
+    margin-left: 100px;
+    position: absolute;
+}
+
+#card4 {
+    display: inline-block;
+    padding: 1%;
+    margin-left: 20px;
+    margin-top: 50px;
+    height: 100px;
+    width: 47%;
+    border-radius: 70px;
+    background-color: white;
+}
+
+#card4_1 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-image: url("../images/ak.jpg");
+}
+
+#card4_2 {
+    display: inline-block;
+    height: 100px;
+    width: 85%;
+    border-radius: 50px;
+    background-color: lightgrey;
+}
+
+#card4_2 p {
+    margin-left: 100px;
+    position: absolute;
+}
+
+#card5 {
+    display: inline-block;
+    padding: 1%;
+    margin-top: 50px;
+    height: 100px;
+    width: 47%;
+    border-radius: 70px;
+    background-color: white;
+}
+
+#card5_1 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-image: url("../images/jt.jpg");
+}
+
+#card5_2 {
+    display: inline-block;
+    height: 100px;
+    width: 85%;
+    border-radius: 50px;
+    background-color: lightgrey;
+}
+
+#card5_2 p {
+    margin-left: 100px;
+    position: absolute;
+}
+
+#card6 {
+    display: inline-block;
+    padding: 1%;
+    margin-left: 20px;
+    margin-top: 50px;
+    height: 100px;
+    width: 47%;
+    border-radius: 70px;
+    background-color: white;
+}
+
+#card6_1 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: red;
+}
+
+#card6_2 {
+    display: inline-block;
+    height: 100px;
+    width: 85%;
+    border-radius: 50px;
+    background-color: lightgrey;
+}
+
+#card6_2 p {
+    margin-left: 100px;
+    position: absolute;
+}
+
+#card7 {
+    display: inline-block;
+    padding: 1%;
+    margin-top: 50px;
+    height: 100px;
+    width: 47%;
+    border-radius: 70px;
+    background-color: white;
+}
+
+#card7_1 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: red;
+}
+
+#card7_2 {
+    display: inline-block;
+    height: 100px;
+    width: 85%;
+    border-radius: 50px;
+    background-color: lightgrey;
+}
+
+#card7_2 p {
+    margin-left: 100px;
+    position: absolute;
+}
+
+#card8 {
+    display: inline-block;
+    padding: 1%;
+    margin-left: 20px;
+    margin-top: 50px;
+    height: 100px;
+    width: 47%;
+    border-radius: 70px;
+    background-color: white;
+}
+
+#card8_1 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: red;
+}
+
+#card8_2 {
+    display: inline-block;
+    height: 100px;
+    width: 85%;
+    border-radius: 50px;
+    background-color: lightgrey;
+}
+
+#card8_2 p {
+    margin-left: 100px;
+    position: absolute;
+}

@@ -1,0 +1,77 @@
+/* ======== STYLING ========= */
+
+body {
+    background: #2c3e50;
+}
+
+#back {
+    margin-left: 700px;
+    text-decoration: none;
+    color: white;
+    padding: 1%;
+    background: orangered;
+    height: 20px;
+    width: 50px;
+}
+
+p {
+    transition: 0.5s;
+}
+
+p:hover {
+    font-size: +22;
+    transition: 0.5s;
+}
+
+#q1 {
+    width: 400px;
+    margin-left: 430px;
+    margin-top: 20px;
+}
+
+#q2 {
+    width: 400px;
+    margin-top: 20px;
+}
+
+#details {
+    display: inline-flex;
+    background: #95a5a6;
+    border-radius: 40px;
+    width: 100%;
+}
+
+#acc_card {
+    color: black;
+    text-decoration: none;
+}
+
+#card1 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 1%;
+    margin-left: 430px;
+    border-radius: 100px;
+    background: #2980b9;
+    line-height: 200px;
+    color: white;
+    text-align: center;
+    font-size: +24;
+    transition: 1s;
+}
+
+#card2 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 1%;
+    margin-left: 200px;
+    border-radius: 100px;
+    background: #2980b9;
+    line-height: 200px;
+    color: white;
+    text-align: center;
+    font-size: +24;
+    transition: 1s;
+}

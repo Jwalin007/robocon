@@ -1,0 +1,44 @@
+/* ======== STYLING ========= */
+
+body {
+    background-image: url("../images/background1.jpg");
+}
+
+#back {
+    margin-left: 720px;
+    text-decoration: none;
+    color: white;
+    padding: 1%;
+    background: orangered;
+    height: 20px;
+    width: 50px;
+}
+
+#info1 {
+    margin-top: 40px;
+    background-color: whitesmoke;
+    height: 60px;
+    border-radius: 10px;
+}
+
+#info2 {
+    box-shadow: 8px 8px 6px #212121;
+    border-radius: 30px;
+    margin-top: 150px;
+    padding: 2%;
+    margin-left: 430px;
+    text-align: center;
+    width: 40%;
+    background: greenyellow;
+}
+
+.error {
+    width: 92%;
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid #a94442;
+    color: #a94442;
+    background: #f2dede;
+    border-radius: 5px;
+    text-align: left;
+}

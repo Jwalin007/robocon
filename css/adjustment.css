@@ -1,0 +1,71 @@
+/* ======== STYLING ========= */
+
+body {
+    background: black;
+}
+
+#up {
+    width: 100%;
+    height: 100px;
+    background: white;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#hide {
+    display: none;
+}
+
+#down {
+    margin-top: 20px;
+    color: white;
+    width: 100%;
+    height: 30px;
+    background: brown;
+    text-align: center;
+    padding-top: 10px;
+    font-size: +20;
+}
+
+#bar {
+    padding-top: 20px;
+    text-align: center;
+    font-size: +20;
+    margin-top: 20px;
+    background: #bdc3c7;
+    height: 1300px;
+    width: 100%;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#back {
+    margin-left: 700px;
+    text-decoration: none;
+    color: white;
+    padding: 1%;
+    background: orangered;
+    height: 20px;
+    width: 50px;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    padding: 5px;
+    background: grey;
+    border-radius: 30px;
+}
+
+.error {
+    width: 92%;
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid #a94442;
+    color: #a94442;
+    background: #f2dede;
+    border-radius: 5px;
+    text-align: left;
+}

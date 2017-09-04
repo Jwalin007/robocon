@@ -1,0 +1,331 @@
+/* ======== STYLING ========= */
+
+body {
+    background: #2c3e50;
+}
+
+#menu-bar {
+    position: relative;
+    background: #7f8c8d;
+    height: 120px;
+    width: 100%;
+}
+
+#nirmalogo {
+    position: absolute;
+    height: 75px;
+    width: 170px;
+    margin-left: 10px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+#roboconlogo {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+#home {
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 30px;
+    font-size: +20;
+    display: inline-block;
+    width: 120px;
+    color: black;
+    background: initial;
+    text-align: center;
+    transition: 0.5s;
+}
+
+#home:hover {
+    color: white;
+    margin-top: 20px;
+    background: #000000;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    border-bottom: 3px solid white;
+    transition: 0.5s;
+}
+
+#team_nirma {
+    position: absolute;
+    margin-left: 325px;
+    margin-top: 30px;
+    font-size: +20;
+    width: 120px;
+    display: inline-block;
+    color: black;
+    background: initial;
+    text-align: center;
+    transition: 0.5s;
+}
+
+#team_nirma:hover {
+    color: white;
+    margin-top: 20px;
+    background: #000000;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    border-bottom: 3px solid white;
+    transition: 0.5s;
+}
+
+#about_us {
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 30px;
+    font-size: +20;
+    width: 120px;
+    display: inline-block;
+    color: black;
+    background: initial;
+    text-align: center;
+    transition: 0.5s;
+}
+
+#about_us:hover {
+    color: white;
+    margin-top: 20px;
+    background: #000000;
+    border-bottom: 3px solid white;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    transition: 0.5s;
+}
+
+#contact_us {
+    position: absolute;
+    margin-left: 575px;
+    margin-top: 30px;
+    font-size: +20;
+    width: 120px;
+    display: inline-block;
+    color: black;
+    background: initial;
+    text-align: center;
+    transition: 0.5s;
+}
+
+#contact_us:hover {
+    color: white;
+    margin-top: 20px;
+    background: #000000;
+    border-bottom: 3px solid white;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    transition: 0.5s;
+}
+
+#log_dis {
+    text-transform: capitalize;
+    display: inline-block;
+    font-size: +20;
+    margin-top: 50px;
+    margin-left: 1100px;
+}
+
+p {
+    transition: 0.5s;
+}
+
+p:hover {
+    font-size: +22;
+    transition: 0.5s;
+}
+
+#q1 {
+    width: 400px;
+    margin-left: 430px;
+    margin-top: 20px;
+}
+
+#q2 {
+    width: 400px;
+    margin-top: 20px;
+}
+
+#details {
+    display: inline-flex;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 40px;
+    width: 100%;
+    height: 200px;
+}
+
+#cf {
+    background-color: #bdc3c7;
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 40px;
+    height: 400px;
+}
+
+#logout {
+    color: red;
+}
+
+#acard1 {
+    color: black;
+    text-decoration: none;
+}
+
+#card1 {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    padding: 1%;
+    margin-left: 80px;
+    margin-top: 100px;
+    border-radius: 150px;
+    background: green;
+    line-height: 150px;
+    text-align: center;
+    font-size: +18;
+    transition: 1s;
+}
+
+#card1:hover {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    margin-top: 75px;
+    background: yellow;
+    line-height: 200px;
+    text-align: center;
+    font-size: +22;
+    transition: 1s;
+}
+
+#acard2 {
+    color: black;
+    text-decoration: none;
+}
+
+#card2 {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    padding: 1%;
+    margin-left: 100px;
+    margin-top: 100px;
+    border-radius: 150px;
+    background: green;
+    line-height: 150px;
+    text-align: center;
+    font-size: +18;
+    transition: 1s;
+}
+
+#card2:hover {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    margin-top: 75px;
+    background: yellow;
+    line-height: 200px;
+    text-align: center;
+    font-size: +22;
+    transition: 1s;
+}
+
+#acard3 {
+    color: black;
+    text-decoration: none;
+}
+
+#card3 {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    padding: 1%;
+    margin-left: 100px;
+    margin-top: 100px;
+    border-radius: 150px;
+    background: green;
+    line-height: 150px;
+    text-align: center;
+    font-size: +18;
+    transition: 1s;
+}
+
+#card3:hover {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    margin-top: 75px;
+    background: yellow;
+    line-height: 200px;
+    text-align: center;
+    font-size: +22;
+    transition: 1s;
+}
+
+#acard4 {
+    color: black;
+    text-decoration: none;
+}
+
+#card4 {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    padding: 1%;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 150px;
+    background: green;
+    line-height: 150px;
+    text-align: center;
+    font-size: +18;
+    transition: 1s;
+}
+
+#card4:hover {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    margin-top: 75px;
+    background: yellow;
+    line-height: 200px;
+    text-align: center;
+    font-size: +22;
+    transition: 1s;
+}
+
+#acard5 {
+    color: black;
+    text-decoration: none;
+}
+
+#card5 {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    padding: 1%;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 150px;
+    background: green;
+    line-height: 150px;
+    text-align: center;
+    font-size: +18;
+    transition: 1s;
+}
+
+#card5:hover {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    margin-top: 75px;
+    background: yellow;
+    line-height: 200px;
+    text-align: center;
+    font-size: +22;
+    transition: 1s;
+}

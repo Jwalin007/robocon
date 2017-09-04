@@ -1,0 +1,15 @@
+/* ======== STYLING ========= */
+
+body {
+    background-image: url("../images/background1.jpg");
+}
+
+#back {
+    margin-left: 720px;
+    text-decoration: none;
+    color: white;
+    padding: 1%;
+    background: orangered;
+    height: 20px;
+    width: 50px;
+}

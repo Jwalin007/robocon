@@ -1,0 +1,66 @@
+/* ======== STYLING ========= */
+
+img {
+    width: 1000px;
+    height: 700px;
+    z-index: -1;
+    position: relative;
+    margin-left: 0px;
+}
+
+#tick {
+    z-index: +1;
+    position: absolute;
+    top: 83px;
+    left: 100px;
+    height: 45px;
+    width: 45px;
+}
+
+#date {
+    z-index: +1;
+    position: absolute;
+    top: 170px;
+    left: 800px;
+    font-size: +25;
+}
+
+#faculty {
+    z-index: +1;
+    position: absolute;
+    top: 210px;
+    left: 350px;
+    font-size: +25;
+}
+
+#purchase {
+    z-index: +1;
+    position: absolute;
+    top: 330px;
+    left: 350px;
+    font-size: +25;
+}
+
+#department {
+    z-index: +1;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+    font-size: +25;
+}
+
+#mw {
+    z-index: +1;
+    position: absolute;
+    top: 285px;
+    left: 250px;
+    font-size: +25;
+}
+
+#ma {
+    z-index: +1;
+    position: absolute;
+    top: 250px;
+    left: 770px;
+    font-size: +25;
+}
